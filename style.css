@@ -1,0 +1,30 @@
+body{
+background-color: grey;
+
+}
+input,button{
+	margin: 12px;
+	padding: 8px;
+	display:block;
+width: 250px;
+text-align: center;
+font-family: Algerian;
+font-size: 19px
+}
+div{
+	margin: 7px;
+	padding: 7px;
+	display:inline-block;
+background-color: plum;
+}
+a{
+	display: block;
+	color:yellow;
+	width: 255px;
+	text-align: center;
+}
+h1{text-decoration: underline;
+	font-family: AR Darling;
+	font-size: 50px
+}
+
